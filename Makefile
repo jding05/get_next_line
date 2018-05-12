@@ -6,7 +6,7 @@
 #    By: sding <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/04/08 17:05:59 by sding             #+#    #+#              #
-#    Updated: 2018/05/07 15:22:06 by sding            ###   ########.fr        #
+#    Updated: 2018/05/12 11:22:10 by sding            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,7 +19,7 @@ CC = gcc
 #When compiling. you need to add your .a lib
 CFILES = $(LIB)/libft.a \
 				get_next_line.c\
-				main_file/main.c
+				main.c
 
 
 

@@ -6,11 +6,11 @@
 /*   By: sding <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/04/15 22:56:41 by sding             #+#    #+#             */
-/*   Updated: 2018/05/07 15:24:33 by sding            ###   ########.fr       */
+/*   Updated: 2018/05/12 11:23:25 by sding            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../get_next_line.h"
+#include "get_next_line.h"
 #include <stdio.h>
 
 int main(int argc, char **argv)
